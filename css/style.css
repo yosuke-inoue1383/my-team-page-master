@@ -39,6 +39,7 @@ img{
 
 .pngArea{
   display: flex;
+  flex-wrap: wrap;
 }
 
 .pngType1{
@@ -46,6 +47,24 @@ img{
 }
 
 .pngType2{
+  width: 27%;
+  margin-top: 100px;
+}
+
+.pngType3{
+  width: 27%;
+}
+
+.pngType4{
+  width: 27%;
+  margin-top: 100px;
+}
+
+.pngType5{
+  width: 27%;
+}
+
+.pngType6{
   width: 27%;
   margin-top: 100px;
 }
@@ -81,4 +100,24 @@ footer{
 .thickLine{
   text-decoration: underline;
   font-weight: bold;
+}
+
+@media only screen and (max-width: 500px){
+  header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .headArea1{
+    width: 100%;
+    font-weight: bold;
+    font-size: 120%;
+    margin-bottom: 50px;
+  }
+
+  .headArea2{
+    width: 100%;
+  }
+
+
 }

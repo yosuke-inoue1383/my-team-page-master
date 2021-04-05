@@ -161,8 +161,13 @@ footer{
     margin-left: 40px;
   }
 
+  .pngSet{
+    writing-mode: vertical-lr;
+    width: 80%;
+  }
+
   img{
-    width: 100px;
+    width: 30%;
   }
 
   .space{

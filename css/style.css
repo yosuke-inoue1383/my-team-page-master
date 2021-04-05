@@ -103,7 +103,7 @@ footer{
 
 @media screen and (max-width: 1000px){
   body{
-    margin-left: 20px;
+    margin-left: 40px;
   }
 
   header{
@@ -157,7 +157,7 @@ footer{
   }
 
   img{
-    width: 320px;
+    width: 350px;
   }
 
   footer{

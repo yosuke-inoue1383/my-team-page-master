@@ -161,6 +161,10 @@ footer{
     margin-left: 40px;
   }
 
+  img{
+    max-width: calc(50% - 20px);
+  }
+
   .space{
     width: 15px;
   }

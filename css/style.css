@@ -165,17 +165,6 @@ footer{
     width: 15px;
   }
 
-  .pngSet{
-    writing-mode: vertical-lr;
-    width: 90%;
-  }
-
-  img{
-    max-width: 100%;
-    height: auto;
-    width /***/:auto;
-  }
-
   footer{
     font-size: 6px;
   }

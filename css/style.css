@@ -103,7 +103,7 @@ footer{
 
 @media screen and (max-width: 1000px){
   body{
-    margin-left: 0px;
+    margin-left: 10px;
   }
 
   header{
@@ -115,12 +115,17 @@ footer{
   .headArea1{
     width: 100%;
     font-weight: bold;
-    font-size: 120%;
+    font-size: 200%;
     margin-bottom: 50px;
   }
 
   .headArea2{
     width: 100%;
+    font-size: 150%;
+  }
+
+  .pngArea{
+    font-size: 140%;
   }
 
   .pngType1{
@@ -153,5 +158,9 @@ footer{
 
   img{
     width: 300px;
+  }
+
+  footer{
+    font-size: 20px;
   }
 }

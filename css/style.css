@@ -156,6 +156,10 @@ footer{
     margin-top: 70px;
   }
 
+  .space{
+    width: 15px;
+  }
+
   img{
     width: 350px;
   }

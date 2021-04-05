@@ -34,7 +34,7 @@ main{
 }
 
 img{
-  width: 300px;
+  width: 100%;
 }
 
 .pngArea{
@@ -101,7 +101,7 @@ footer{
   font-weight: bold;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 500px){
   body{
     margin-left: 40px;
     margin-right: 0px;

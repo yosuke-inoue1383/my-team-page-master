@@ -139,6 +139,7 @@ footer{
 
   .pngType5{
     width: 40%;
+    margin-top: 0px;
   }
 
   .pngType6{
@@ -147,6 +148,6 @@ footer{
   }
 
   img{
-    width: 280px;
+    width: 250px;
   }
 }

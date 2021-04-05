@@ -102,6 +102,10 @@ footer{
 }
 
 @media screen and (max-width: 1000px){
+  body{
+    margin-left: 0px;
+  }
+
   header{
     display: block;
     margin-top: 50px;
@@ -148,6 +152,6 @@ footer{
   }
 
   img{
-    width: 250px;
+    width: 300px;
   }
 }

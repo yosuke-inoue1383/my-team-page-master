@@ -39,34 +39,28 @@ main{
 }
 
 .pngType1{
-  width: 27%;
 }
 
 .pngType2{
-  width: 27%;
   margin-top: 100px;
 }
 
 .pngType3{
-  width: 27%;
 }
 
 .pngType4{
-  width: 27%;
 }
 
 .pngType5{
-  width: 27%;
   margin-top: 100px;
 }
 
 .pngType6{
-  width: 27%;
 }
 
 .pngSet{
   writing-mode: vertical-lr;
-  width: 27%;
+  width: 30%;
 }
 
 img{

@@ -119,29 +119,33 @@ footer{
   }
 
   .pngType1{
-    width: 30%;
+    width: 40%;
   }
 
   .pngType2{
-    width: 30%;
+    width: 40%;
     margin-top: 70px;
   }
 
   .pngType3{
-    width: 30%;
+    width: 40%;
   }
 
   .pngType4{
-    width: 30%;
+    width: 40%;
     margin-top: 70px;
   }
 
   .pngType5{
-    width: 30%;
+    width: 40%;
   }
 
   .pngType6{
-    width: 30%;
+    width: 40%;
     margin-top: 70px;
+  }
+
+  img{
+    width: 70%;
   }
 }
